@@ -28,6 +28,7 @@
     "pino": "9.7.0",
     "pino-http": "10.4.0",
     "swagger-ui-express": "5.0.1",
+    "twilio": "^5.7.0",
     "zod": "3.25.7"
   },
   "devDependencies": {
